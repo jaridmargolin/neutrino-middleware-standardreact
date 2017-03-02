@@ -1,4 +1,6 @@
 # Neutrino StandardReact Preset
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jaridmargolin/neutrino-preset-standardreact.svg)](https://greenkeeper.io/)
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 
 `neutrino-preset-standardreact` is a Neutrino preset that supports linting JavaScript projects using standard + standard-react rules.
