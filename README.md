@@ -1,11 +1,11 @@
-# Neutrino StandardReact Preset
+# Neutrino StandardReact Middleware
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 
-`neutrino-preset-standardreact` is a Neutrino preset that supports linting JavaScript projects using standard + standard-react rules.
+`neutrino-middleware-standardreact` is a Neutrino middleware that supports linting JavaScript projects using standard + standard-react rules.
 
-[npm-image]: https://img.shields.io/npm/v/neutrino-preset-standardreact.svg
-[npm-downloads]: https://img.shields.io/npm/dt/neutrino-preset-standardreact.svg
-[npm-url]: https://npmjs.org/package/neutrino-preset-standardreact
+[npm-image]: https://img.shields.io/npm/v/neutrino-middleware-standardreact.svg
+[npm-downloads]: https://img.shields.io/npm/dt/neutrino-middleware-standardreact.svg
+[npm-url]: https://npmjs.org/package/neutrino-middleware-standardreact
 
 ## License
 
