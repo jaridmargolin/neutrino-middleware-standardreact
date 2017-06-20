@@ -12,7 +12,7 @@ const merge = require('deepmerge')
  * middleware
  * -------------------------------------------------------------------------- */
 
-module.exports = (neutrino, options) => {
+module.exports = (neutrino, options = {}) => {
   neutrino.use(eslint, merge({
     eslint: {
       baseConfig: {
