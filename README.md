@@ -1,3 +1,7 @@
+Moved to: [neutrino-contrib/neutrino-middleware-standardreact](https://github.com/jaridmargolin/neutrino-contrib/tree/master/packages/neutrino-middleware-standardreact)
+
+---
+
 # Neutrino StandardReact Middleware
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 
